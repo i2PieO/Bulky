@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Data",
+    "\\Migrations",
+    "\\obj",
+    "\\Properties",
+    "\\Views",
+    "\\wwwroot"
+  ],
+  "PreviewInSolutionExplorer": false
+}
