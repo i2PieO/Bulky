@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj"
               },
-              "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-                "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+              "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj"
               }
             }
           }
@@ -82,12 +82,12 @@
         }
       }
     },
-    "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-        "projectName": "Bulky.Models",
-        "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
+        "projectName": "BulkyBook.Models",
+        "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
         "packagesPath": "C:\\Users\\i2PieO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
@@ -137,12 +137,12 @@
         }
       }
     },
-    "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
-        "projectName": "Bulky.Utility",
-        "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
+        "projectName": "BulkyBook.Utility",
+        "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
         "packagesPath": "C:\\Users\\i2PieO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",

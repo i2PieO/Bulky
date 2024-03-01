@@ -2919,40 +2919,40 @@
           }
         }
       },
-      "Bulky.DataAccess/1.0.0": {
+      "BulkyBook.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Bulky.Models": "1.0.0",
-          "Bulky.Utility": "1.0.0",
+          "BulkyBook.Models": "1.0.0",
+          "BulkyBook.Utility": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
         },
         "compile": {
-          "bin/placeholder/Bulky.DataAccess.dll": {}
+          "bin/placeholder/BulkyBook.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.DataAccess.dll": {}
+          "bin/placeholder/BulkyBook.DataAccess.dll": {}
         }
       },
-      "Bulky.Models/1.0.0": {
+      "BulkyBook.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/BulkyBook.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/BulkyBook.Models.dll": {}
         }
       },
-      "Bulky.Utility/1.0.0": {
+      "BulkyBook.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Bulky.Utility.dll": {}
+          "bin/placeholder/BulkyBook.Utility.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Utility.dll": {}
+          "bin/placeholder/BulkyBook.Utility.dll": {}
         }
       }
     }
@@ -8202,26 +8202,26 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Bulky.DataAccess/1.0.0": {
+    "BulkyBook.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../Bulky.DataAccess/Bulky.DataAccess.csproj",
-      "msbuildProject": "../Bulky.DataAccess/Bulky.DataAccess.csproj"
+      "path": "../Bulky.DataAccess/BulkyBook.DataAccess.csproj",
+      "msbuildProject": "../Bulky.DataAccess/BulkyBook.DataAccess.csproj"
     },
-    "Bulky.Models/1.0.0": {
+    "BulkyBook.Models/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Models/Bulky.Models.csproj",
-      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+      "path": "../Bulky.Models/BulkyBook.Models.csproj",
+      "msbuildProject": "../Bulky.Models/BulkyBook.Models.csproj"
     },
-    "Bulky.Utility/1.0.0": {
+    "BulkyBook.Utility/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Utility/Bulky.Utility.csproj",
-      "msbuildProject": "../Bulky.Utility/Bulky.Utility.csproj"
+      "path": "../Bulky.Utility/BulkyBook.Utility.csproj",
+      "msbuildProject": "../Bulky.Utility/BulkyBook.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Bulky.DataAccess >= 1.0.0",
-      "Bulky.Models >= 1.0.0",
+      "BulkyBook.DataAccess >= 1.0.0",
+      "BulkyBook.Models >= 1.0.0",
       "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter >= 8.0.2",
       "Microsoft.EntityFrameworkCore >= 8.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.2",
@@ -8235,9 +8235,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
-      "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
+      "projectName": "BulkyBookWeb",
+      "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\i2PieO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
@@ -8256,11 +8256,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+            "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
             },
-            "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+            "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj"
             }
           }
         }

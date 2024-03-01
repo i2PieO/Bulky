@@ -526,3 +526,4 @@ C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
 C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
 C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.sourcelink.json

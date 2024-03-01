@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-      "projectName": "Bulky.Models",
-      "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
+      "projectName": "BulkyBook.Models",
+      "projectPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\i2PieO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",
