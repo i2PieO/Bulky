@@ -10,3 +10,4 @@ C:\Users\i2PieO\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Model
 C:\Users\i2PieO\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
 C:\Users\i2PieO\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
 C:\Users\i2PieO\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
+C:\Users\i2PieO\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache

@@ -266,3 +266,6 @@ C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\refint\BulkyBookWeb
 C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyBookWeb.pdb
 C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyBookWeb.dll
+C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\i2PieO\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
