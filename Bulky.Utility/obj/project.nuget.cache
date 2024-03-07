@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "WvSUOuff7IZCelrHeH8TVOwYAD/bEkRhLKOlJTrgplN60Z1sbhlw1iJNb7uqYpyQcKPZZMCNFNASnml01H5lYw==",
+  "dgSpecHash": "UF4m3RPd1RcvnVuKfc0DsLPA8Pvs9xJw4fbQWfebd8F2yLdKVUSwZ3KfKwIXS1QE8Bwj51jp0HWgzvqj8n6W8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\i2PieO\\source\\repos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.2\\microsoft.aspnetcore.cryptography.internal.8.0.2.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.2\\microsoft.aspnetcore.cryptography.keyderivation.8.0.2.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\microsoft.aspnetcore.identity.ui.8.0.2.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.2\\microsoft.extensions.fileproviders.embedded.8.0.2.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.2\\microsoft.extensions.identity.core.8.0.2.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.2\\microsoft.extensions.identity.stores.8.0.2.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\i2PieO\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
